@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+*Python programming
+  *Beautiful Soup
+  *Flask
+  *Selenium
+*ABAP programming
+*Arduino
